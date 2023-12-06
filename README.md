@@ -29,10 +29,10 @@ I'm a computer systems and programming professor with a passion for open source 
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ipererol&show_icons=true&theme=transparent" />
+  <img height=145 align="center" src="https://github-readme-stats.vercel.app/api?username=ipererol&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipererol&layout=compact&theme=transparent&width=200" />
+  <img height=145 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipererol&layout=compact&theme=transparent" />
 </a>
 
 ## Connect with Me
